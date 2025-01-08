@@ -2,3 +2,4 @@ dist
 build
 Main.spec
 __pycache__
+GUI.spec
