@@ -11,6 +11,7 @@ pause_thread = False
 def play(PdfReader):
     global pdf
     global stop_thread
+    global pause_thread
     
     speaker = pyttsx3.init()
     
