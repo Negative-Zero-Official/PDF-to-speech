@@ -1,6 +1,3 @@
->[!IMPORTANT]
->This README.md is AI generated.
-
 # PDF Audio Reader
 
 A Python-based application that converts the text from a PDF file into speech using text-to-speech (TTS) technology. The project is designed to read aloud PDF content and includes interactive features to control playback.
